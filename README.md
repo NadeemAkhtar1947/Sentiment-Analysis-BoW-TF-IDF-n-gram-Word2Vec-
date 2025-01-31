@@ -71,6 +71,7 @@ pip install numpy pandas seaborn matplotlib nltk scikit-learn gensim
 - Implement **hyperparameter tuning** to improve model performance 🔍.
 - Deploy the model as a **web app using Flask or Streamlit** 🌐.
 
+
 ## 🎯 Conclusion
 This project demonstrates the effectiveness of **traditional machine learning models** for **sentiment analysis**. Different vectorization techniques and classifiers were evaluated, with **Random Forest using TF-IDF** yielding the best accuracy 🎯.
 
@@ -78,3 +79,10 @@ If this project helped in your learning, please consider supporting it! 🚀
 
 **Happy Learning!** 😊📚
 
+## 📬 Contact & Support
+Connect with me for feedback or contributions:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadeem-akhtar-/) | [![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NadeemAkhtar1947) | [![Kaggle](https://img.shields.io/badge/Kaggle-00A65A?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/mdnadeemakhtar/code)
+| [![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://nsde.netlify.app/)
+
+🚀 **Developed by Nadeem Akhtar** | 📅 **Copyright © 2024**
